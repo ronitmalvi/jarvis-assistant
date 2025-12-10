@@ -41,3 +41,7 @@ JARVIS now supports basic voice interaction:
 - Responds back using offline TTS (pyttsx3)
 
 Fully offline, free, and functional.
+
+## Phase 2 — Tool Layer (In Progress)
+Jarvis can now decide when to call tools using a simple JSON protocol and can open apps and URLs on the system (e.g., "open YouTube", "open notepad").
+
